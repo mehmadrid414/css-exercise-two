@@ -59,6 +59,10 @@ article {
 }
 
 .container {
+  background-color: #2D545E;
+  color: #FFFFFF;
+  font-size: 16 px;
+  line-height: normal;
   margin: 0 auto;
   width: 50%;
 }
