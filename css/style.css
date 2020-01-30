@@ -1,5 +1,5 @@
 body {
-  background-color: #0000FF;
+  background-color: #2D545E;
   color: #FFFFFF;
   font-size: 16 px;
   line-height: normal;
@@ -14,7 +14,7 @@ p {
 }
 
 nav {
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(225,179,130,.5);
   float: left;
   position: fixed;
   width: 100%;
