@@ -42,6 +42,7 @@ nav {
 
 .right {
   float: right;
+  color: #FFFFFF;
   text-decoration: none;
   a:hover {color: #FFFFFF;} /* mouse over*/
 }
