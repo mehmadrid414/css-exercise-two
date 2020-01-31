@@ -54,11 +54,6 @@ nav {
   color: #FFFFFF;
 }
 
-a {
-  text-decoration: none;
-  a:hover {color: #FFFFFF;} /* mouse over*/
-}
-
 ul {
   list-style-type: none;
   float: right;
@@ -67,6 +62,8 @@ ul {
 li {
   float: right;
   padding: 30px;
+  text-decoration: none;
+  a:hover {color: #FFFFFF;} /* mouse over*/
 }
 
 article {
