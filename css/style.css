@@ -69,7 +69,8 @@ a {
   font-weight: bold;
   color: #FFFFFF;
   text-decoration: none;
-  a:hover {color: #FFFFFF;} /* mouse over*/
+  a:link {color: #FFFFFF;} /* unvisited */
+  a:link {color: #963C8A;} /* visited */
 }
 
 article {
