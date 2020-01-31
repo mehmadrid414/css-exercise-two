@@ -8,10 +8,17 @@ body {
 
 h1 {
   font-size: 32 px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 16 px;
+  font-weight: italic;
 }
 
 p {
-  font-size: 16 px;
+  font-size: 14 px;
+  font-weight: lighter;
 }
 
 nav {
