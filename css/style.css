@@ -71,7 +71,7 @@ a {
 
 a:link { color:#FFFFFF; } /* unvisited */
 a:link { color:#963C8A; } /* visited */
-a:hover { color:2D545E; } /* mouse over */
+a:hover { color:#2D545E; } /* mouse over */
 
 article {
   padding-top: 100px;
