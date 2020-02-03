@@ -8,17 +8,17 @@ body {
 
 h1 {
   font-size: 32px;
-  font-weight: bold;
+  font-style: bold;
 }
 
 h3 {
   font-size: 16px;
-  font-weight: italic;
+  font-style: italic;
 }
 
 author {
   font-size: 14px;
-  font-weight: lighter;
+  font-style: lighter;
   text-indent: 5em;
 }
 
