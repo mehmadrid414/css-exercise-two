@@ -1,25 +1,25 @@
 body {
   background-color: #2D545E;
   color: #FFFFFF;
-  font-size: 16 px;
+  font-size: 16px;
   font-family: Helvetica;
   line-height: 2em;
 }
 
 h1 {
-  font-size: 32 px;
+  font-size: 32px;
   font-weight: bold;
 }
 
 h3 {
-  font-size: 16 px;
+  font-size: 16px;
   font-weight: italic;
 }
 
 author {
-  font-size: 14 px;
+  font-size: 14px;
   font-weight: lighter;
-  text-indent: 5 em;
+  text-indent: 5em;
 }
 
 nav {
@@ -32,7 +32,6 @@ nav {
 .logo {
   margin: 20px;
   width: 100px;
-  background: #fff url(images/bloc-logo.png) no-repeat, top left;  
 }
 
 .large-pic {
@@ -41,7 +40,6 @@ nav {
 
 .medium-pic {
   width: 70%;
-  background: #fff url(images/instagram-pic.jpg) no-repeat, top center;
 }
 
 .left, .right {
@@ -69,9 +67,11 @@ a {
   font-weight: bold;
   color: #FFFFFF;
   text-decoration: none;
-  a:link {color: #FFFFFF;} /* unvisited */
-  a:link {color: #963C8A;} /* visited */
 }
+
+a:link { color:#FFFFFF; } /* unvisited */
+a:link { color:#963C8A; } /* visited */
+a:hover { color:#0070BC; } /* mouse over */
 
 article {
   padding-top: 100px;
